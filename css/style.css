@@ -578,6 +578,18 @@ h1, h2, h3{
     }
 
 }
+@media(max-width: 424px){
+    #question_2{
+        width: 30px;
+        height: 30px;
+    }
+}
+@media(max-width: 376px){
+    #question_2{
+        width: 28px;
+        height: 28px;
+    }
+}
 @media(max-width: 889px){
     .price__element{
         width: 330px;
