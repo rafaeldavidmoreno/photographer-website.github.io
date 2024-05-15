@@ -469,7 +469,15 @@ h1, h2, h3{
     margin: 5rem auto;
     border-radius: 50%;
 }
-
+.end-text{
+    text-align: center;
+    padding-top: 90px;
+}
+.end-text p{
+    color: var(--bg-color);
+    font-size: 14px;
+    letter-spacing: 2px;
+}
 
 /* Media Queries */
 
